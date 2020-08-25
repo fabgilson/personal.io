@@ -1,0 +1,98 @@
+baseURL = "https://fabgilson.bitbucket.org"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Fabian Gilson's website"
+theme = "hugo-anatole-fork"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[params]
+title = "Hi there, I'm Fabian"
+author = "Fabian Gilson"
+description = "Some stuff about me and my work"
+profilePicture = "images/profile.png"
+keywords = ""
+favicon = "favicons/"
+customCss = ["css/style.css"]
+customJs = ["js/all.js"]
+mainSections = ["post"]
+# images = ["images/site-feature-image.png"]
+
+## Font
+google_fonts = [
+  ["Josefin Sans", "400, 700"],
+  ["Istok Web", "400, 400i, 700, 700i"]
+]
+
+## Math settings
+#[params.math]
+#enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+#use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/FabGilson/"
+
+## Social links
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/fabiangilson/"
+
+[[params.socialIcons]]
+icon = "fab fa-bitbucket"
+title = "Bitbucket"
+url = "https://bitbucket.org/mde4asd/"
+
+[[params.socialIcons]]
+icon = "fab fa-researchgate"
+title = "ResearchGate"
+url = "https://www.researchgate.net/profile/Fabian_Gilson"
+
+[[params.socialIcons]]
+icon = "fa-briefcase"
+title = "University of Canterbury's webpage"
+url = "https://www.canterbury.ac.nz/engineering/contact-us/people/fabian-gilson.html"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "research"
+  weight = 200
+  identifier = "research"
+  url = "/research/"
+
+  [[menu.main]]
+  name = "courses"
+  weight = 300
+  identifier = "courses"
+  url = "/courses/"
+
+  [[menu.main]]
+  name = "posts"
+  weight = 400
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "about"
+  weight = 500
+  identifier = "about"
+  url = "/about/"
