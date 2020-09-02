@@ -1,3 +1,17 @@
+#
+# Basic workflow to update website:
+#  1. make changes and use $hugo server -D (possible adding '-p PORT' if needed) 
+#  2. $ hugo (to build the /public folder containing the static website)
+#  3. $ cd public 
+#  4. $ git add . 
+#  5. $ git commit -m "my changes"
+#  6. $ git push origin master (public is a submodule pointing to fabgilson.github.io magic repo) 
+#  7. $ rm -rf public
+#  8. $ git add the changes and push them
+#
+# One day, make a script :) 
+#
+
 baseURL = "https://fabgilson.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
