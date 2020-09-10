@@ -1,0 +1,86 @@
+public/
+*.class
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+*.jar
+*.war
+*.ear
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+*.log
+# sbt specific
+.cache*
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+.metadata
+# backup files
+*~
+*.bak
+logs
+project/project
+project/target
+target
+tmp
+.idea
+.idea_modules
+*.iml
+db
+.classpath
+.project
+.settings
+out
+bin/
+.cache-main
+project/.sbtserver
+project/.sbtserver.lock
+.sbtserver
+.sonar
+*.keystore
+# latex-related
+*.pdf
+*.aux
+*.snm
+*.blg
+*.bbl
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.lof
+*.lot
+*.lol
+*.ptc
+*.out
+*.nav
+*.snm
+*-blx.bib
+*.run.xml
+*.xwm
+*.vrb
+# Xtext related
+src-gen/
+xtend-gen/
+# archives
+*.zip
+*.tar
+*.tar.gz
+# gradle and other
+build/
+gradle/
+output/
+*.ipr
+.gradle/
+# mps stuff
+classes_gen/
+source_gen/
+source_gen.caches/
+
