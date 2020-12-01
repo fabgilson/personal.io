@@ -8,7 +8,7 @@ author = "Fabian Gilson"
 
 ## Bio
 
-I'm a lecturer (assist. prof) at the [University of Canterbury](https://www.canterbury.ac.nz) in the [Computer Science and Software Engineering](https://csse.canterbury.ac.nz/) department (New Zealand). I'm also a member and *Industry Liaison* for [Software Innovation NZ](https://softwareinnovation.nz), a network of academics in computer science and software engineering. 
+I'm a senior lecturer (assoc. prof. in North American system) at the [University of Canterbury](https://www.canterbury.ac.nz) in the [Computer Science and Software Engineering](https://csse.canterbury.ac.nz/) department (New Zealand). I'm also a member and *Industry Liaison* for [Software Innovation NZ](https://softwareinnovation.nz), a network of academics in computer science and software engineering. 
 
 I graduated with a Master Degree in Computer Science at the [University of Namur](https://www.unamur.be/en/) (Belgium) in 2005. I spent a couple of years in the industry as a software developer and analyst, working for a consulting company. I then worked as a teaching assistant, doing his PhD studies part time and graduate in 2015. I spent three years as a post-doctoral researcher and assistant lecturer at the University of Namur before being appointed lecturer at the University of Canterbury in 2017. I serve as regular reviewer in international journals (*e.g.,* Information Systems, Computers in Industry) and international workshops and conferences (e.g., RCIS, TechDebt).
 

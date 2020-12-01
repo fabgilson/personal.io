@@ -20,7 +20,7 @@ In my first half, I talk about:
 
 * A series of introductions to resilience engineering, user experience and project knowledge management.
 
-The course material also includes weekly readings from grey literature sources (*e.g.,* blogs) to complement the course material with an industrial touch. More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG301&occurrence=20S1(C)&year=2020).
+The course material also includes weekly readings from grey literature sources (*e.g.,* blogs) to complement the course material with an industrial touch. More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG301).
 
 ## Software Engineering Group Project (SENG302)
 
@@ -28,20 +28,20 @@ This course is very different from a typical lecture-based teaching experience. 
 
 During a *sprint* (name for a Scrum iteration), each teams need to negotiate their sprint backlog with the product owner and must implement all other classic Scrum ceremonies (*i.e.* standups, retrospective, plannings). They also practice continuous integration and deployment practices where they need to automatically deploy on a dedicated server, keeping static code analysis tools happy together with good automated (and manual) testing indicators.
 
-As the year goes, teams are usually encouraged to tweak their product with their own vision to differentiate themselves from the other teams to incorporate more craftmanship and creativity to the course (after the students have practiced their other more "classical" software engineering skills). 
+As the year goes, teams are usually encouraged to tweak their product with their own vision to differentiate themselves from the other teams to incorporate more craft and creativity to the course (after the students have practiced their other more "classical" software engineering skills). 
 
 Additionally to formal retrospectives, each team member must reflect individually and about his teammates in self- and peer-reflection after each sprint. 
 
-More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG302&occurrence=20W(C)&year=2020).
+More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG302).
 
 ## Software Engineering Research Project (SENG402)
 
 This course is the capstone project for software engineering students. Students must work individually on either a staff or sponsored project that includes some aspects of research (*e.g.,* user study, application of latest research results in an industrial context, proof-of-concepts). Students are supervised by a staff member and, when relevant, by an industry sponsor. Students deliver two reports in the form of scientific papers, make a public presentation (during a showcase day) and present poster (during another showcase with all other engineering students). 
 
-This project is the opportunity for students to dig into an original problem and lead a challenging project by themselves. More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG402&occurrence=20W(C)&year=2020).
+This project is the opportunity for students to dig into an original problem and lead a challenging project by themselves. More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG402).
 
 ## Model-Driven Software Engineering (SENG405)
 
 The purpose of this course is to introduce students to model-driven software engineering practices. Students learn about appropriate methodologies and suitable tooling support for model-driven software engineering. Then, they develop team work skills as software language engineers where they will create their own software language and implement a dedicated development environment. Last, they conduct a scientifically-grounded empirical evaluation of a domain specific language framework developed by their peers.
 
-The course use a mix of theoretical lectures and practical labs (*e.g.,* using Arduinos). More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG441&occurrence=20S1(C)&year=2020).
+The course use a mix of theoretical lectures and practical labs (*e.g.,* using Arduinos). More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG405).
