@@ -37,6 +37,7 @@ favicon = "favicons/"
 customCss = ["css/style.css"]
 customJs = ["js/all.js"]
 mainSections = ["post"]
+readMore = true
 # images = ["images/site-feature-image.png"]
 
 ## Font
