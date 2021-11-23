@@ -1,7 +1,7 @@
 +++
 title = "Research I'm doing"
 description = "Everything you want to know about my research"
-date = "2021-07-30"
+date = "2021-11-23"
 aliases = ["works","papers","publications","projects"]
 author = "Fabian Gilson"
 +++
@@ -30,6 +30,8 @@ This project is about bringing more modelling practices into agile software deve
 
 This group of works are looking into how to improve the teaching an learning of software engineering practices in the large. We looked over how to teach about usability in software language engineering and code quality assurance (mostly related to technical debt).
 
+- Morales-Trujillo, M., Galster, M., Gilson, F., & Mathews, M. (2021) A Three-Year Study on Peer Evaluation in a Software Engineering Project Course, _in IEEE Transactions on Education_, [DOI](https://doi.org/10.1109/TE.2021.3123682).
+
 - Gilson, F., Morales, M., & Mathews, M. (2020). How Junior Developers Deal with Their Technical Debt?. _In Proc. of 2020 IEEE/ACM International Conference on Technical Debt (TechDebt)_ (pp. 51–61). ACM. [DOI](https://doi.org/10.1145/3387906.3388624)
 
 - Gilson, F. (2018). Teaching software language engineering and usability through students peer reviews. _In Proc. 21st ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS '18)_ (pp. 98–105). ACM. [DOI](https://doi.org/10.1145/3270112.3270124)
@@ -38,9 +40,9 @@ This group of works are looking into how to improve the teaching an learning of 
 
 Some work I'm doing with one of my PhD student on communication channels and knowledge retrieval, moslty the work of [Camila Costa Silva](https://www.researchgate.net/profile/Camila_Mariane_Silva).
 
-Costa Silva, C, Galster, M., Gilson, F. (2021). Topic modeling in software engineering research. _In Empir Software Eng 26_, 120. [DOI](https://doi.org/10.1007/s10664-021-10026-0)
+- Costa Silva, C., Galster, M. & Gilson, F. (2021). Topic modeling in software engineering research. _In Empir Software Eng 26_, 120. [DOI](https://doi.org/10.1007/s10664-021-10026-0)
 
-Costa Silva, C., Gilson, F., & Galster, M. (2019). Comparison Framework for Team-Based Communication Channels. _In Product-Focused Software Process Improvement (PROFES)_ (pp. 315–322). Springer International Publishing. [DOI](https://doi.org/10.1007/978-3-030-35333-9_22)
+- Costa Silva, C., Gilson, F., & Galster, M. (2019). Comparison Framework for Team-Based Communication Channels. _In Product-Focused Software Process Improvement (PROFES)_ (pp. 315–322). Springer International Publishing. [DOI](https://doi.org/10.1007/978-3-030-35333-9_22)
 
 ## Older stuff (reverse-chronological order)
 

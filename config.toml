@@ -64,9 +64,9 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/fabiangilson/"
 
 [[params.socialIcons]]
-icon = "fab fa-bitbucket"
+icon = "fab fa-gitlab"
 title = "Bitbucket"
-url = "https://bitbucket.org/mde4asd/"
+url = "https://gitlab.com/mde4asd/"
 
 [[params.socialIcons]]
 icon = "fab fa-researchgate"
@@ -74,7 +74,13 @@ title = "ResearchGate"
 url = "https://www.researchgate.net/profile/Fabian_Gilson"
 
 [[params.socialIcons]]
-icon = "fa-briefcase"
+icon = "fab fa-orcid"
+title = "ORCID"
+url = "https://orcid.org/0000-0002-1465-3315"
+
+
+[[params.socialIcons]]
+icon = "fa-id-card"
 title = "University of Canterbury's webpage"
 url = "https://www.canterbury.ac.nz/engineering/contact-us/people/fabian-gilson.html"
 
