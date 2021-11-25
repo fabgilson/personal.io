@@ -45,3 +45,5 @@ This project is the opportunity for students to dig into a challenging problem a
 The purpose of this course is to introduce students to model-driven software engineering practices. Students learn about appropriate methodologies and suitable tooling support for model-driven software engineering. Then, they develop team work skills as software language engineers where they will create their own software language and implement a dedicated development environment. Last, they conduct an empirical evaluation of a domain specific language framework developed by their peers.
 
 The course use a mix of theoretical lectures and practical labs (_e.g.,_ using Arduinos). More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG405).
+
+Sadly, this course is discontinuated for now as we are missing enough resources and I've taken over the software security course (more to come on that soon).
