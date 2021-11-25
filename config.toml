@@ -65,7 +65,7 @@ url = "https://www.linkedin.com/in/fabiangilson/"
 
 [[params.socialIcons]]
 icon = "fab fa-gitlab"
-title = "Bitbucket"
+title = "gitlab"
 url = "https://gitlab.com/mde4asd/"
 
 [[params.socialIcons]]
