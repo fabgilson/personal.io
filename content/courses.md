@@ -47,3 +47,13 @@ The purpose of this course is to introduce students to model-driven software eng
 The course use a mix of theoretical lectures and practical labs (_e.g.,_ using Arduinos). More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG405).
 
 Sadly, this course is discontinuated for now as we are missing enough resources and I've taken over the software security course (more to come on that soon).
+
+## Software Security
+
+Building secure software is an intricate task that involves careful design of both preemptive and corrective measures. This course covers the secure development lifecycle where students learn about techniques to model security threats, follow secure coding standards and perform security-focused testing to prevent software to expose vulnerabilities. Students learn how to combine tools of various natures to identify threats as part of a continuous integration pipeline. The course also addresses data privacy and governance issues, including (indigenous) data sovereignty principles.
+
+The course is dedicated to fourth year students with an experimental (audit of open source software) and research focus (literature review of latest advances in security). More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG406).
+
+## Professional Master of Computer Science
+
+I also contribute to the software architecture, design and continuous integration component of the bootcamp of the Professional Master in Computer Science. I teach three full days in that two week compressed module where computer science students get up to speed with software engineering practices including, on top of above topics, agile software development and requirement engineering.

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching on Fabian Gilson&#39;s website</title>
+    <link>https://fabgilson.github.io/tags/teaching/</link>
+    <description>Recent content in teaching on Fabian Gilson&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabgilson.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good coding practices need an advocate inside the team (or it won&#39;t work)</title>
+      <link>https://fabgilson.github.io/post/technical-leader/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabgilson.github.io/post/technical-leader/</guid>
+      <description>A few years ago, we looked into how teams deal with the technical debt in a software engineering project course (DOI to paper).</description>
+    </item>
+    
+    <item>
+      <title>Teaching about Scrum with paper</title>
+      <link>https://fabgilson.github.io/post/scrum-tuto/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabgilson.github.io/post/scrum-tuto/</guid>
+      <description>I&amp;rsquo;ll talk about how we teach about Scrum events and principles in a gamified context.</description>
+    </item>
+    
+    <item>
+      <title>Moving to a partial flipped classroom</title>
+      <link>https://fabgilson.github.io/post/blended-flipped/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabgilson.github.io/post/blended-flipped/</guid>
+      <description>This year I tried something &amp;ldquo;revolutionary&amp;rdquo;: asking my third year students to read some material before coming to class.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,7 +12,9 @@ You can find most of preprints / personal copies on [ResearchGate](https://www.r
 
 ## Model-Driven for Agile Software Development (MDE4ASD)
 
-This project is about bringing more modelling practices into agile software development. We look into generating models from textual documents (_e.g.,_ user stories) for further analysis, or extracting information from discussions on messaging apps. Here's a list of the publications in that area.
+This project is about bringing more modelling practices into agile software development. We look into generating models from textual documents (_e.g.,_ user stories) for further analysis, or extracting information from discussions on messaging apps. Here's a list of the publications in that area. You can find some resources on our [gitlab repository](https://gitlab.com/mde4asd/).
+
+- Josephs A., Gilson F. and Galster M. (2022) Towards Automatic Classification of Design Decisions from Developer Conversations. _In 2022 IEEE 19th International Conference on Software Architecture Companion (ICSA-C)_ IEEE. [DOI](http://dx.doi.org/10.1109/icsa-c54293.2022.00009)
 
 - Gilson F., Annand S. and Steel J. (2020). Recording software design decisions on the fly. In _Joint Proceedings of SEED & NLPaSE co-located with 27th Asia Pacific Software Engineering Conference_, (pp.) 53-66), CEUR 2799 [LINK](http://ceur-ws.org/Vol-2799/Paper7_NLPaSE.pdf)
 
@@ -38,7 +40,7 @@ This group of works are looking into how to improve the teaching an learning of 
 
 ## Communication channel and developer knowledge
 
-Some work I'm doing with one of my PhD student on communication channels and knowledge retrieval, moslty the work of [Camila Costa Silva](https://www.researchgate.net/profile/Camila_Mariane_Silva).
+Some work I'm doing with one of my PhD student on communication channels and knowledge retrieval, mostly the work of [Camila Costa Silva](https://www.researchgate.net/profile/Camila_Mariane_Silva).
 
 - Costa Silva, C., Galster, M. & Gilson, F. (2021). Topic modeling in software engineering research. _In Empir Software Eng 26_, 120. [DOI](https://doi.org/10.1007/s10664-021-10026-0)
 

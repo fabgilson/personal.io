@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scrum on Fabian Gilson&#39;s website</title>
+    <link>https://fabgilson.github.io/tags/scrum/</link>
+    <description>Recent content in scrum on Fabian Gilson&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fabgilson.github.io/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching about Scrum with paper</title>
+      <link>https://fabgilson.github.io/post/scrum-tuto/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabgilson.github.io/post/scrum-tuto/</guid>
+      <description>I&amp;rsquo;ll talk about how we teach about Scrum events and principles in a gamified context.</description>
+    </item>
+    
+  </channel>
+</rss>
