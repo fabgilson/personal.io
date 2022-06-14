@@ -25,8 +25,9 @@ git submodule update
 4. `$ git add .`
 5. `$ git commit -m "my changes"`
 6. `$ git push origin master` (public needs to be a submodule pointing to fabgilson.github.io magic repo)
-7. `$ rm -rf public`
-8. `$ git add` the changes and push them
+7. `$ git add` the changes and push them
+
+Make sure the public folder is in `.gitignore`.
 
 ## To push to the static website
 
