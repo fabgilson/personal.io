@@ -46,7 +46,9 @@ This group of works are looking into how to improve the teaching and learning of
 
 ## Communication channel and developer knowledge
 
-Some work I'm doing with one of my PhD student on communication channels and knowledge retrieval, mostly the work of [Camila Costa Silva](https://www.researchgate.net/profile/Camila_Mariane_Silva).
+Some work I'm doing with one PhD students on communication channels and knowledge retrieval, mostly the work of [Camila Costa Silva](https://www.researchgate.net/profile/Camila_Mariane_Silva).
+
+- Costa Silva C., Galster M. and Gilson F. (2022) A qualitative analysis of themes in instant messaging communication of software developers. _In Journal of Systems and Software 111397_, Elsevier. [DOI](http://dx.doi.org/10.1016/j.jss.2022.111397)
 
 - Costa Silva, C., Galster, M. and Gilson, F. (2021). Topic modeling in software engineering research. _In Empir Software Eng 26_, 120. [DOI](https://doi.org/10.1007/s10664-021-10026-0)
 
