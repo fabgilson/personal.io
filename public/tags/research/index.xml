@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Fabian Gilson&#39;s website</title>
+    <link>https://fabgilson.github.io/tags/research/</link>
+    <description>Recent content in Research on Fabian Gilson&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fabgilson.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good coding practices need an advocate inside the team (or it won&#39;t work)</title>
+      <link>https://fabgilson.github.io/post/technical-leader/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/post/technical-leader/</guid>
+      <description>A few years ago, we looked into how teams deal with the technical debt in a software engineering project course (DOI to paper).</description>
+    </item>
+  </channel>
+</rss>

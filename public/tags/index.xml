@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fabian Gilson&#39;s website</title>
+    <link>https://fabgilson.github.io/tags/</link>
+    <description>Recent content in Tags on Fabian Gilson&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fabgilson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Quality</title>
+      <link>https://fabgilson.github.io/tags/code-quality/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/code-quality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>https://fabgilson.github.io/tags/index/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://fabgilson.github.io/tags/research/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://fabgilson.github.io/tags/teaching/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://fabgilson.github.io/tags/technology/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Active-Learning</title>
+      <link>https://fabgilson.github.io/tags/active-learning/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/active-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scrum</title>
+      <link>https://fabgilson.github.io/tags/scrum/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/scrum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flipped-Classroom</title>
+      <link>https://fabgilson.github.io/tags/flipped-classroom/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/flipped-classroom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://fabgilson.github.io/tags/welcome/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/welcome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Who-Am-I</title>
+      <link>https://fabgilson.github.io/tags/who-am-i/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://fabgilson.github.io/tags/who-am-i/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
