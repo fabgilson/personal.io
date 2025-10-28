@@ -1,7 +1,7 @@
 +++
 title = "Research I'm doing"
 description = "Everything you want to know about my research"
-date = "2021-11-23"
+date = "2025-10-28"
 aliases = ["works","papers","publications","projects"]
 author = "Fabian Gilson"
 +++
@@ -9,6 +9,10 @@ author = "Fabian Gilson"
 Here are a few publications linked to both my current projects, followed by my older work while doing my PhD.
 
 You can find most of preprints / personal copies on [ResearchGate](https://www.researchgate.net/profile/Fabian_Gilson), or contact me if you need more.
+
+## Artificial Intelligence for Software Engineering (AI4SENG)
+
+This project investigates the usage of AI/ML/NLP tools to support software development. Some early results can be found under its [gitlab repository](https://gitlab.com/ai4seng/). Paper to appear in PROFES (more soon).
 
 ## Model-Driven for Agile Software Development (MDE4ASD)
 
@@ -32,11 +36,21 @@ This project is about bringing more modelling practices into agile software deve
 
 A very recent interest sparkled in software testing and more particularly, in the broader scope of DevOps-friendly software development processes. The goal is to understand how to better support software testers through better practices, methods and more automation. See also our [gitlab repository](https://gitlab.com/mde4asd/).
 
+- Filipovic, M., Gilson, F. (2025). Towards Improving Behavior-Driven Development and Acceptance Testing-Driven Development Teaching in a University Project Course. _In Agile Processes in Software Engineering and Extreme Programming – Workshops. XP 2024_. Lecture Notes in Business Information Processing, vol 524. Springer, [DOI](https://doi.org/10.1007/978-3-031-72781-8_15)
+
+- Filipovic M., Gilson F. (2024) Which Combination of Test Metrics Can Predict Success of a Software Project? A Case Study in a Year-Long Project Course, ArXiv 2408.12120, [DOI](https://doi.org/10.48550/arXiv.2408.12120)
+
 - van Heugten Breurkes, J., Gilson, F., and Galster, M. (2022) Overlap between Automated Unit and Acceptance Testing – a Systematic Literature Review. _In Proc. of the International Conference on Evaluation and Assessment in Software Engineering 2022 (EASE 2022)_. ACM, [DOI](https://doi.org/10.1145/3530019.3530028)
 
 ## Software Engineering Education
 
 This group of works are looking into how to improve the teaching and learning of software engineering practices in the large. We looked over how to teach about usability in software language engineering and code quality assurance (mostly related to technical debt).
+
+- Clarke A., Mitrović T., Gilson F. (2025) Improving Software Engineering Team Communication Through Stronger Social Networks, _In 2025 IEEE/ACM 37th International Conference on Software Engineering Education and Training (CSEE&T)_, [DOI](https://doi.org/10.1109/CSEET66350.2025.00034)
+
+- Minish M., Gilson F. and Galster M. (2024) ScrumBoard: A Project Management Tool Purpose-Built for Software Engineering Education, _In 36th International Conference on Software Engineering Education and Training (CSEE&T)__[DOI](https://doi.org/10.1109/CSEET62301.2024.10663034)
+
+- Minish M., Galster M., Gilson F (2024). Think Before You Scrum - An Experience Report on Daily Scrums to Aid Reflection, _In 36th International Conference on Software Engineering Education and Training (CSEE&T)_, IEEE, [DOI](https://doi.org/10.1109/CSEET62301.2024.10663017)
 
 - Morales-Trujillo, M., Galster, M., Gilson, F., and Mathews, M. (2021) A Three-Year Study on Peer Evaluation in a Software Engineering Project Course, _in IEEE Transactions on Education_, [DOI](https://doi.org/10.1109/TE.2021.3123682).
 
@@ -48,7 +62,9 @@ This group of works are looking into how to improve the teaching and learning of
 
 Some work I'm doing with one PhD students on communication channels and knowledge retrieval, mostly the work of [Camila Costa Silva](https://www.researchgate.net/profile/Camila_Mariane_Silva).
 
-- Costa Silva C., Galster M. and Gilson F. (2022) A qualitative analysis of themes in instant messaging communication of software developers. _In Journal of Systems and Software 111397_, Elsevier. [DOI](http://dx.doi.org/10.1016/j.jss.2022.111397)
+- Costa Silva C., Galster M., Gilson F. (2024). Applying short text topic models to instant messaging communication of software developers, _In Journal of Systems and Software 112111_, Elsevier, [DOI](https://doi.org/10.1016/j.jss.2024.112111)
+
+- Costa Silva C., Galster M. and Gilson F. (2022). A qualitative analysis of themes in instant messaging communication of software developers. _In Journal of Systems and Software 111397_, Elsevier. [DOI](http://dx.doi.org/10.1016/j.jss.2022.111397)
 
 - Costa Silva, C., Galster, M. and Gilson, F. (2021). Topic modeling in software engineering research. _In Empir Software Eng 26_, 120. [DOI](https://doi.org/10.1007/s10664-021-10026-0)
 
