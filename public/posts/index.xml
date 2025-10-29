@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on Fabian Gilson&#39;s website</title>
+    <link>https://fabgilson.github.io/posts/</link>
+    <description>Recent content in posts on Fabian Gilson&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabgilson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good coding practices need an advocate inside the team (or it won&#39;t work)</title>
+      <link>https://fabgilson.github.io/posts/technical-leader/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabgilson.github.io/posts/technical-leader/</guid>
+      
+        <description>How hard it is to convince a team to write good code</description>
+      
+    </item>
+    
+    <item>
+      <title>Teaching about Scrum with paper</title>
+      <link>https://fabgilson.github.io/posts/scrum-tuto/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabgilson.github.io/posts/scrum-tuto/</guid>
+      
+        <description>How we teach about Scrum events and principles by building cities</description>
+      
+    </item>
+    
+    <item>
+      <title>Moving to a partial flipped classroom</title>
+      <link>https://fabgilson.github.io/posts/blended-flipped/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabgilson.github.io/posts/blended-flipped/</guid>
+      
+        <description>Random thoughts on moving to a partial flipped classroom teaching style</description>
+      
+    </item>
+    
+    <item>
+      <title>Glad you&#39;re here!</title>
+      <link>https://fabgilson.github.io/posts/welcome/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabgilson.github.io/posts/welcome/</guid>
+      
+        <description>Some welcome words for you</description>
+      
+    </item>
+    
+  </channel>
+</rss>

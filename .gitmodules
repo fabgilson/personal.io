@@ -1,6 +1,3 @@
-[submodule "themes/hugo-anatole-fork"]
-	path = themes/hugo-anatole-fork
-	url = https://github.com/fabgilson/hugo-anatole-fork
-[submodule "hugo-anatole-fork"]
-	path = hugo-anatole-fork
-	url = git@github.com:fabgilson/hugo-anatole-fork.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git

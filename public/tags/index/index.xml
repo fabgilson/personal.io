@@ -6,14 +6,17 @@
     <description>Recent content in Index on Fabian Gilson&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://fabgilson.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabgilson.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>posts</title>
-      <link>https://fabgilson.github.io/post/</link>
+      <link>https://fabgilson.github.io/posts/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://fabgilson.github.io/post/</guid>
-      <description></description>
+      
+      <guid>https://fabgilson.github.io/posts/</guid>
+      
+        <description></description>
+      
     </item>
+    
   </channel>
 </rss>

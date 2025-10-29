@@ -5,7 +5,6 @@
     <link>https://fabgilson.github.io/categories/</link>
     <description>Recent content in Categories on Fabian Gilson&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://fabgilson.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://fabgilson.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

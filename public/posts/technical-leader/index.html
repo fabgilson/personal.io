@@ -1,0 +1,523 @@
+<!doctype html>
+<html
+  dir="ltr"
+  lang="en"
+  data-theme="auto"
+  
+    class="html theme--light"
+  
+><head>
+  <meta charset="utf-8" />
+  <title>
+    Fabian Gilson
+        |
+        Good coding practices need an advocate inside the team (or it won&#39;t work)
+      
+
+    
+
+  </title>
+
+  <meta name="generator" content="Hugo 0.141.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="Fabian Gilson" />
+  <meta
+    name="description"
+    content="How hard it is to convince a team to write good code"
+  />
+  
+  
+        <link rel="stylesheet" href="/css/anatole.min.49bfd2dbac6030a3a24fe7cb768d3d0dd9d223458e88f7d6cf5fe7aa806aaa2d.css" integrity="sha256-Sb/S26xgMKOiT&#43;fLdo09DdnSI0WOiPfWz1/nqoBqqi0=" crossorigin="anonymous" />
+      
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.73ccfdf28df555e11009c13c20ced067af3cb021504cba43644c705930428b00.css"
+    integrity="sha256-c8z98o31VeEQCcE8IM7QZ688sCFQTLpDZExwWTBCiwA="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.137b1cf3cea9a8adb7884343a9a5ddddf4280f59153f74dc782fb7f7bf0d0519.css"
+    integrity="sha256-E3sc886pqK23iENDqaXd3fQoD1kVP3TceC&#43;3978NBRk="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.e65dc5b48fb5f39b142360c57c3a215744c94e56c755c929cc3e88fe12aab4d3.css"
+    integrity="sha256-5l3FtI&#43;185sUI2DFfDohV0TJTlbHVckpzD6I/hKqtNM="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/regular.min.6f4f16d58da1c82c0c3a3436e021a3d39b4742f741192c546e73e947eacfd92f.css"
+    integrity="sha256-b08W1Y2hyCwMOjQ24CGj05tHQvdBGSxUbnPpR&#43;rP2S8="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.e10425ad768bc98ff1fb272a0ac8420f9d1ba22f0612c08ff1010c95080ffe7e.css"
+    integrity="sha256-4QQlrXaLyY/x&#43;ycqCshCD50boi8GEsCP8QEMlQgP/n4="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+    
+    
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=&amp;display=swap" rel="stylesheet" />
+  <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
+
+  <link rel="canonical" href="https://fabgilson.github.io/posts/technical-leader/" />
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js"
+    integrity="sha256-&#43;RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.8724ddf9268dee451060f191961647573c7f592fbccc6d858746236b3f915813.js"
+      integrity="sha256-hyTd&#43;SaN7kUQYPGRlhZHVzx/WS&#43;8zG2Fh0Yjaz&#43;RWBM="
+      crossorigin="anonymous"
+    ></script>
+  
+
+  
+
+  
+
+  
+
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Good coding practices need an advocate inside the team (or it won&#39;t work)">
+  <meta name="twitter:description" content="How hard it is to convince a team to write good code">
+
+
+
+  
+  <meta property="og:url" content="https://fabgilson.github.io/posts/technical-leader/">
+  <meta property="og:site_name" content="Fabian Gilson&#39;s website">
+  <meta property="og:title" content="Good coding practices need an advocate inside the team (or it won&#39;t work)">
+  <meta property="og:description" content="How hard it is to convince a team to write good code">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2022-05-30T00:00:00+00:00">
+    <meta property="article:modified_time" content="2022-05-30T00:00:00+00:00">
+    <meta property="article:tag" content="Teaching">
+    <meta property="article:tag" content="Research">
+    <meta property="article:tag" content="Code Quality">
+    <meta property="article:tag" content="Technology">
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "posts",
+        "name": "Good coding practices need an advocate inside the team (or it won\u0027t work)",
+        "headline": "Good coding practices need an advocate inside the team (or it won\u0027t work)",
+        "alternativeHeadline": "",
+        "description": "
+      How hard it is to convince a team to write good code
+
+
+    ",
+        "license": "",
+        
+          
+          "copyrightYear": "2025",
+        
+        "inLanguage": "en",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/fabgilson.github.io\/posts\/technical-leader\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Fabian Gilson"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Fabian Gilson"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Fabian Gilson"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Fabian Gilson"
+        },
+        "dateCreated": "2022-05-30T00:00:00.00Z",
+        "datePublished": "2022-05-30T00:00:00.00Z",
+        "dateModified": "2022-05-30T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Fabian Gilson",
+            "url": "https://fabgilson.github.io/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/fabgilson.github.io\/favicons\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+      ]
+
+    ,
+        "url" : "https:\/\/fabgilson.github.io\/posts\/technical-leader\/",
+        "wordCount" : "856",
+        "genre" : [ ],
+        "keywords" : [ 
+      
+      "teaching"
+
+    
+      
+        ,
+
+      
+      "research"
+
+    
+      
+        ,
+
+      
+      "code quality"
+
+    
+      
+        ,
+
+      
+      "technology"
+
+    ]
+    }
+  </script>
+
+
+
+
+  
+  
+  
+</head>
+<body class="body">
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+  "
+>
+  <div class="sidebar__content">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="/images/profile.png"
+        alt="profile picture"
+      />
+      
+        <div class="sidebar__introduction-title">
+          <a href="/">Hi there, I&#39;m Fabian</a>
+        </div>
+      
+      <div class="sidebar__introduction-description">
+        <p>Some stuff about me and my work</p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://twitter.com/FabGilson/"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Twitter"
+            title="Twitter"
+          >
+            <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.linkedin.com/in/fabiangilson/"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Linkedin"
+            title="Linkedin"
+          >
+            <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://gitlab.com/mde4asd/"
+            target="_blank"
+            rel="noopener me"
+            aria-label="gitlab"
+            title="gitlab"
+          >
+            <i class="fab fa-gitlab fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.researchgate.net/profile/Fabian_Gilson"
+            target="_blank"
+            rel="noopener me"
+            aria-label="ResearchGate"
+            title="ResearchGate"
+          >
+            <i class="fab fa-researchgate fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://orcid.org/0000-0002-1465-3315"
+            target="_blank"
+            rel="noopener me"
+            aria-label="ORCID"
+            title="ORCID"
+          >
+            <i class="fab fa-orcid fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://profiles.canterbury.ac.nz/Fabian-Gilson"
+            target="_blank"
+            rel="noopener me"
+            aria-label="University of Canterbury&#39;s webpage"
+            title="University of Canterbury&#39;s webpage"
+          >
+            <i class="fas fa-id-card fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        2025 Fabian Gilson. All rights reserved.
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/"
+              
+              title=""
+              >home</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/research/"
+              
+              title=""
+              >research</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/courses/"
+              
+              title=""
+              >courses</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/posts/"
+              
+              title=""
+              >posts</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/about/"
+              
+              title=""
+              >about</a
+            >
+          </li>
+        
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </div>
+        </li>
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+    "
+  >
+    
+    <div class="post__content">
+      
+        <h1>Good Coding Practices Need an Advocate Inside the Team (Or It Won&#39;t Work)</h1>
+      
+      <p>A few years ago, we looked into how teams deal with the technical debt in a software engineering project course (DOI to <a href="https://doi.org/10.1145/3387906.3388624">paper</a>). One of the main takeaway from the focus group that followed an extensive data analysis (of the evolution of the quality of the code of 8 teams) and a survey (with 25 responses, being 40-ish % of the class) is that the adoption of clean code practices seem to be strongly influenced by a charismatic and engaged <em>&ldquo;team leader&rdquo;</em>. From a literature review (to appear soon at EASE, preprint <a href="https://gitlab.com/mde4asd/hybrid-software-testing-reproduction-pkg">here</a>), we observed that the same pattern, i.e. the need for strong advocates in teams, exist for automated software testing in industry context. From these two studies, I believe that <em>&ldquo;old&rdquo;</em> XP advocates actually got it right and we have failed miserably to listen to them. Therefore, we felt into the same trap as before, i.e. process rigidity and putting the process before the people (and when I say &ldquo;we&rdquo;, I think education and industry).</p>
+<p>Let&rsquo;s give a bit more context on both studies first.</p>
+<h2 id="code-quality-in-a-software-engineering-course">Code quality in a software engineering course</h2>
+<p>Briefly, students are put in teams of 6 to 8 to work over a full year (well, 24 study weeks in Aotearoa New Zealand, which is rather short, actually). They work in a Scrum environment (with quite a few adaptations to make it work in a part-time work) and are carefully mentored (and monitored) by an extensive teaching team. The overall goal is to develop a software product in 6 or 7 iterations (i.e. <em>sprints</em>) and make sure students get a practical hand on software development practices, team-based work, continuous integration and deployment, code reviews and a bit of requirement engineering. If you want more details, just check section 4 of referenced paper above if you want more details.</p>
+<p>During that instance of the course (in 2019), we introduced a static analysis tool and encouraged students to use it (it was part of their CI pipeline). We also explicitly commented on their delivered product after each iteration, including comments on the code quality and analysis reports (from SonarQube). Still, very few teams used it regularly and the tipping point seemed to be linked to one member of the team, usually recognised as a technical guru or leader. It didn&rsquo;t really matter how they were implementing this quality assurance process (e.g., in code reviews, co-location or pair-programming sessions), but the result seemed strongly linked on individuals driving the team on that aspect. And certainly not the teaching staff (the frequent feedback seemed to be outweighed by time pressure).</p>
+<h2 id="automated-testing-practices-in-the-industry">Automated testing practices in the industry</h2>
+<p>In that systematic literature review (my first published one, how boring to carry, but in the end, I&rsquo;m happy we did it), we looked at how automated testing for unit (of code) and (user) acceptance levels could share common methodological patterns (or not). This research was conducted in two phases: 1) a mapping study on automated unit and acceptance testing (i.e. looking at the broader scope); 2) a literature review focusing on papers with an industry focus. In the end, among published papers, Test-Driven Development (TDD) and Model-Based Testing (both from automated generation or as <em>&ldquo;drivers&rdquo;</em> for testing, MBT) were the most popular techniques. Still, for developer teams to put the needed effort into software testing (in general), most researchers working with the industry reported that these teams had an <strong>advocate inside</strong> development teams (or a dedicated quality assurance <strong>person</strong>). It&rsquo;s also worth noting that benefices from TDD or MBT was not linked to how well teams were following the method to the letter, but simply linked to the mindset induced by the testing practice.</p>
+<h2 id="people-implement-processes-actual-processes-dont-matter-as-much">People implement processes, actual processes don&rsquo;t matter as much</h2>
+<p>From these two pieces of research, I strongly believe that we are currently putting way too much importance to processes and not enough to people. There is a whole research domain of human factors in software engineering. There are also lots of advocates (mostly <em>XPers</em> from the early ages) preaching to come back to ensemble thinking and programming where we need to acknowledge that what we do cannot be created in a <em>Taylorist</em> way, sadly what the Jira (or Monday) generation of leaders is pushing for. As software engineering researchers (and industry), we keep developing more tools and metrics to support software development, but we also drive developers apart more and more (see how bots are becoming a thing in open source development). We probably need now to invest into how to build better working environments for developers to find their own way of implementing a particular process. The way that make sense to them. This is what we observe in a non-empirical way for now in our project course (but there are plans to look into this soon): <strong>teams that understand the fundamentals of software development processes, adapt one and make it their own, tailored to their team culture and dynamics, produce the best results</strong>. Both in terms of software products, but more importantly, in terms of practical experience. And this, usually needs at least one <em>&ldquo;technical or methodological leader&rdquo;</em> <strong>part of the team</strong>.</p>
+</div>
+    <div class="post__footer">
+      
+
+      
+        <span><a class="tag" href="/tags/teaching/">teaching</a><a class="tag" href="/tags/research/">research</a><a class="tag" href="/tags/code-quality/">code quality</a><a class="tag" href="/tags/technology/">technology</a></span>
+
+
+      
+    </div>
+
+    
+  </div>
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        2025 Fabian Gilson. All rights reserved.
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></body>
+</html>
