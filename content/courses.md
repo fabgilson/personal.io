@@ -28,19 +28,27 @@ This course is very different from a typical lecture-based teaching experience. 
 
 During a _sprint_ (name for a Scrum iteration), each team needs to negotiate their sprint backlog with the product owner and must implement all other classic Scrum event (_i.e._ standups, retrospective, plannings). They also practice continuous integration and deployment practices where they need to automatically deploy on a dedicated server, keeping static code analysis tools happy together with good automated (and manual) testing indicators.
 
-As the year goes, teams are usually encouraged to tweak their product with their own vision to differentiate themselves from the other teams to incorporate more craft and creativity to the course (after the students have practiced their other more "classical" software engineering skills).
+As the year goes, teams are usually encouraged to tweak their product with their own vision to differentiate themselves from the other teams to incorporate more craft and creativity to the course (after the students have practised their other more "classical" software engineering skills).
 
 Additionally to formal retrospectives, each team member must reflect individually and about their teammates in self- and peer-reflection after each sprint.
 
 More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG302).
 
-## Software Engineering Research Project (SENG402)
+## Software Security (SENG406)
+
+Building secure software is an intricate task that involves careful design of both preemptive and corrective measures. This course covers the secure development lifecycle where students learn about techniques to model security threats, follow secure coding standards and perform security-focused testing to prevent software to expose vulnerabilities. Students learn how to combine tools of various natures to identify threats as part of a continuous integration pipeline. The course also addresses data privacy and governance issues, including (indigenous) data sovereignty principles.
+
+The course is dedicated to fourth year students with an experimental (audit of open source software) and research focus (literature review of the latest advances in security). More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG406).
+
+## Past courses
+
+### Software Engineering Research Project (SENG402)
 
 This course is the capstone project for software engineering students. Students must work individually on either a staff or sponsored project that includes some aspects of research (_e.g.,_ user study, application of latest research results in an industrial context, proof-of-concepts). Students are supervised by an academic staff member and, when relevant, by an industry sponsor. Students deliver a project plan, an interim and a final report on top of a public presentation and a formal demonstration.
 
 This project is the opportunity for students to dig into a challenging problem and lead a software engineering project by themselves. More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG402).
 
-## Model-Driven Software Engineering (SENG405)
+### Model-Driven Software Engineering (SENG405)
 
 The purpose of this course is to introduce students to model-driven software engineering practices. Students learn about appropriate methodologies and suitable tooling support for model-driven software engineering. Then, they develop team work skills as software language engineers where they will create their own software language and implement a dedicated development environment. Last, they conduct an empirical evaluation of a domain specific language framework developed by their peers.
 
@@ -48,12 +56,6 @@ The course use a mix of theoretical lectures and practical labs (_e.g.,_ using A
 
 Sadly, this course is discontinuated for now as we are missing enough resources and I've taken over the software security course (more to come on that soon).
 
-## Software Security
-
-Building secure software is an intricate task that involves careful design of both preemptive and corrective measures. This course covers the secure development lifecycle where students learn about techniques to model security threats, follow secure coding standards and perform security-focused testing to prevent software to expose vulnerabilities. Students learn how to combine tools of various natures to identify threats as part of a continuous integration pipeline. The course also addresses data privacy and governance issues, including (indigenous) data sovereignty principles.
-
-The course is dedicated to fourth year students with an experimental (audit of open source software) and research focus (literature review of latest advances in security). More details available on the official [course page](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG406).
-
-## Professional Master of Computer Science
+### Professional Master of Computer Science
 
 I also contribute to the software architecture, design and continuous integration component of the bootcamp of the Professional Master in Computer Science. I teach three full days in that two week compressed module where computer science students get up to speed with software engineering practices including, on top of above topics, agile software development and requirement engineering.

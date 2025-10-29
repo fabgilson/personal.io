@@ -1,0 +1,144 @@
+baseURL = "https://fabgilson.github.io"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Fabian Gilson's website"
+theme = "anatole"
+summarylength = 10
+# enableEmoji = true
+# enableRobotsTXT = true
+# # Enable syntax highlighting with Chroma
+# pygmentsCodeFences = true
+# pygmentsUseClasses = true
+
+# Pagination
+pagination.pagerSize = 10
+
+[params]
+  title = "Hi there, I'm Fabian"
+  author = "Fabian Gilson"
+  description = "Some stuff about me and my work"
+  profilePicture = "images/profile.png"
+  
+  copyright = "{{ YEAR }} Fabian Gilson. All rights reserved."
+  
+  displayMode = "auto"
+  
+  favicon = "favicons/"
+  customCss = ["css/stylesheet.css"]
+
+  # Main sections for RSS and homepage
+  mainSections = ["posts"]
+  
+  # Date format
+  dateFormat = "2006-01-02"
+  
+  # Enable reading time
+  readMore = true
+  
+  # Enable Table of Contents
+  toc = true
+  
+  # Enable Math rendering with KaTeX
+  #math = true
+  
+  # Enable Mermaid diagrams
+  #mermaid = true
+
+  contentratio = 0.7
+
+# Social media icons
+[[params.socialIcons]]
+  icon = "fab fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/FabGilson/"
+
+## Social links
+[[params.socialIcons]]
+  icon = "fab fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/fabiangilson/"
+
+[[params.socialIcons]]
+  icon = "fab fa-gitlab"
+  title = "gitlab"
+  url = "https://gitlab.com/mde4asd/"
+
+[[params.socialIcons]]
+  icon = "fab fa-researchgate"
+  title = "ResearchGate"
+  url = "https://www.researchgate.net/profile/Fabian_Gilson"
+
+[[params.socialIcons]]
+  icon = "fab fa-orcid"
+  title = "ORCID"
+  url = "https://orcid.org/0000-0002-1465-3315"
+
+
+[[params.socialIcons]]
+  icon = "fas fa-id-card"
+  title = "University of Canterbury's webpage"
+  url = "https://profiles.canterbury.ac.nz/Fabian-Gilson"
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    name = "home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+  [[menu.main]]
+    name = "research"
+    identifier = "research"
+    weight = 200
+    url = "/research/"
+
+  [[menu.main]]
+    name = "courses"
+    identifier = "courses"
+    weight = 300
+    url = "/courses/"
+
+  [[menu.main]]
+    name = "posts"
+    identifier = "posts"
+    weight = 400
+    url = "/posts/"
+
+  [[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 500
+    url = "/about/"
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Privacy settings
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = false
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = false
+
+# Markup settings
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

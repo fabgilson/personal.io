@@ -8,11 +8,11 @@ author = "Fabian Gilson"
 
 Here are a few publications linked to both my current projects, followed by my older work while doing my PhD.
 
-You can find most of preprints / personal copies on [ResearchGate](https://www.researchgate.net/profile/Fabian_Gilson), or contact me if you need more.
+You can find most of the preprints / personal copies on [ResearchGate](https://www.researchgate.net/profile/Fabian_Gilson), or contact me if you need more.
 
 ## Artificial Intelligence for Software Engineering (AI4SENG)
 
-This project investigates the usage of AI/ML/NLP tools to support software development. Some early results can be found under its [gitlab repository](https://gitlab.com/ai4seng/). Paper to appear in PROFES (more soon).
+This project investigates the usage of AI/ML/NLP tools to support software development. Some early results can be found under its [gitlab repository](https://gitlab.com/ai4seng/). Paper to appear in [PROFES 2025](https://conf.researchr.org/track/profes-2025/profes-2025-research-papers) (more soon).
 
 ## Model-Driven for Agile Software Development (MDE4ASD)
 
@@ -46,17 +46,23 @@ A very recent interest sparkled in software testing and more particularly, in th
 
 This group of works are looking into how to improve the teaching and learning of software engineering practices in the large. We looked over how to teach about usability in software language engineering and code quality assurance (mostly related to technical debt).
 
-- Clarke A., Mitrović T., Gilson F. (2025) Improving Software Engineering Team Communication Through Stronger Social Networks, _In 2025 IEEE/ACM 37th International Conference on Software Engineering Education and Training (CSEE&T)_, [DOI](https://doi.org/10.1109/CSEET66350.2025.00034)
+- Clarke A., Mitrović T., Gilson F. (2025) Improving Software Engineering Team Communication Through Stronger Social Networks, _In 2025 IEEE/ACM 37th International Conference on Software Engineering Education and Training (CSEE&T)_. [DOI](https://doi.org/10.1109/CSEET66350.2025.00034)
 
-- Minish M., Gilson F. and Galster M. (2024) ScrumBoard: A Project Management Tool Purpose-Built for Software Engineering Education, _In 36th International Conference on Software Engineering Education and Training (CSEE&T)__[DOI](https://doi.org/10.1109/CSEET62301.2024.10663034)
+- Minish M., Gilson F. and Galster M. (2024) ScrumBoard: A Project Management Tool Purpose-Built for Software Engineering Education, _In 36th International Conference on Software Engineering Education and Training (CSEE&T)_. [DOI](https://doi.org/10.1109/CSEET62301.2024.10663034), [gitlab](https://gitlab.com/uc-scrumboard/scrumboard)
 
 - Minish M., Galster M., Gilson F (2024). Think Before You Scrum - An Experience Report on Daily Scrums to Aid Reflection, _In 36th International Conference on Software Engineering Education and Training (CSEE&T)_, IEEE, [DOI](https://doi.org/10.1109/CSEET62301.2024.10663017)
 
-- Morales-Trujillo, M., Galster, M., Gilson, F., and Mathews, M. (2021) A Three-Year Study on Peer Evaluation in a Software Engineering Project Course, _in IEEE Transactions on Education_, [DOI](https://doi.org/10.1109/TE.2021.3123682).
+- Morales-Trujillo, M., Galster, M., Gilson, F., and Mathews, M. (2021) A Three-Year Study on Peer Evaluation in a Software Engineering Project Course, _in IEEE Transactions on Education_. [DOI](https://doi.org/10.1109/TE.2021.3123682).
 
 - Gilson, F., Morales, M., and Mathews, M. (2020). How Junior Developers Deal with Their Technical Debt?. _In Proc. of 2020 IEEE/ACM International Conference on Technical Debt (TechDebt)_ (pp. 51–61). ACM. [DOI](https://doi.org/10.1145/3387906.3388624)
 
 - Gilson, F. (2018). Teaching software language engineering and usability through students peer reviews. _In Proc. 21st ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS '18)_ (pp. 98–105). ACM. [DOI](https://doi.org/10.1145/3270112.3270124)
+
+## Software Security
+
+This new-ish line of work looks at bringing software security practices into NZ's curriculum in a more practical way, as well as making penetration testing and fuzzing more approachable to beginners:
+
+- De Baets A., Nguyen G., Devroey X, Gilson F (2025). FETT: Fault Injection as an Educational and Training Tool in Cybersecurity. Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), [Author's copy](researchportal.unamur.be/en/publications/fett-fault-injection-as-an-educational-and-training-tool-in-cyber/), [gitlab](https://gitlab.com/fabgilson/django-vulnerability-injector)
 
 ## Communication channel and developer knowledge
 
@@ -91,8 +97,6 @@ Mostly some works I've done during my PhD (software architecture and model-drive
 - Gilson, F., and Englebert, V. (2015). Challenging a Transformation-Wise Architecture Framework in a Comparative Case Study. _In Model-Driven Engineering and Software Development. Communications in Computer and Information Science (Vol. 580)_ (pp. 213–229). [DOI](https://doi.org/10.1007/978-3-319-27869-8_12)
 
 - Gilson, F., and Englebert, V. (2014). A Domain Specific Language for Stepwise Design of Software Architectures. _In MODELSWARD 2014 - Proceedings of the 2nd International Conference on Model-Driven Engineering and Software Development_. SciTePress. [DOI](https://doi.org/10.5220/0004709700670078)
-
-- Gilson, F.. (2013). Eclipse plugin for Iodass modeling languages. [Update site](https://fabgilson.bitbucket.io)
 
 - Gilson, F., and Englebert, V. (2011). Towards handling architecture design, variability and evolution with model transformations. _In Proceedings of the Fifth International Workshop on Variability Modelling of Software-Intensive Systems (VAMOS)_ (pp. 39–48). ACM. [DOI](https://doi.org/10.1145/1944892.1944897)
 
